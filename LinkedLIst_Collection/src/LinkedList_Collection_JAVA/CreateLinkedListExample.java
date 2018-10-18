@@ -1,4 +1,4 @@
-package CreatingAndAdding_LinkedList;
+package LinkedList_Collection_JAVA;
 
 import java.util.ArrayList;
 import java.util.LinkedList;
